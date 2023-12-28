@@ -37,7 +37,7 @@ or just this one:
 * <a href="https://huyenchip.com/machine-learning-systems-design/toc.html"> Machine Learning Systems Design</a> FREE
 * <a href="https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969"> Designing Machine Learning Systems </a> BOOK
 
-### MLOps
+# MLOps
 * <a href="https://www.udemy.com/course/practical-mlops-for-data-scientists-devops-engineers-aws/">MLOps and DevOps on on AWS</a> UDEMY: Subscription
 * <a href="https://www.udemy.com/course/deploy-machine-learning-model/learn/lecture/17928722#overview">Deploy Machine Learning Models</a> UDEMY: Subscription
 
@@ -46,4 +46,4 @@ or just this one:
 # Job Search and Interview Prep
 * <a href="https://www.crackingthecodinginterview.com/">Cracking the Coding Interview</a> BOOK
 * <a href="https://huyenchip.com/ml-interviews-book/">Machine Learning Interviews Book</a> FREE
-* <a href="https://www.interviewquery.com/">Interview Query: Data Scientist Job Prep</a> FREE with Paid Plans
+* <a href="https://www.interviewquery.com/">Interview Query: MLE/DS Job Prep</a> FREE with Paid Plans
