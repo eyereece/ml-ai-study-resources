@@ -38,6 +38,7 @@ or just this one:
 * <a href="https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969"> Designing Machine Learning Systems </a> BOOK
 
 # MLOps
+* <a href="https://neptune.ai/blog/how-to-learn-mlops">How to learn MLOps</a> FREE article with resources
 * <a href="https://www.udemy.com/course/practical-mlops-for-data-scientists-devops-engineers-aws/">MLOps and DevOps on on AWS</a> UDEMY: Subscription
 * <a href="https://www.udemy.com/course/deploy-machine-learning-model/learn/lecture/17928722#overview">Deploy Machine Learning Models</a> UDEMY: Subscription
 
