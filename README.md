@@ -62,6 +62,11 @@ or just this one:
 # Others (optional)
 * <a href="https://www.pluralsight.com/courses/aws-certified-solutions-architect---associate-saa-c03">AWS Solutions Architect</a>
 
+### Other topics you may be interested in
+* <a href="https://www.udemy.com/course/solved-challenges-ants/learn/lecture/13321774#overview">Complete Neural Signal Processing: Zero to Heroin MATLAB</a> UDEMY: Subscription
+* <a href="https://www.udemy.com/course/signal-processing/learn/lecture/11873450#overview">Signal Processing Problems</a> UDEMY: Subscription
+* <a href="https://www.udemy.com/course/python-for-time-series-data-analysis/learn/lecture/13772656#overview">Python for Time Series Analysis</a> UDEMY: Subscription
+
 # Where to find projects to learn from
 * <a href="https://www.kaggle.com/">Kaggle</a>
 * <a href="https://paperswithcode.com/">Papers with Code</a> (more advanced)
