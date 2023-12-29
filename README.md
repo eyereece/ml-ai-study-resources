@@ -69,6 +69,7 @@ or just this one:
 * <a href="https://github.com/chris-chris/ml-engineer-roadmap">MLE Roadmap by chris-chris</a>
 * <a href="https://github.com/enkaranfiles/Machine-Learning-Engineer-Roadmap?tab=readme-ov-file">MLE Roadmap by enkaranfiles</a>
 * <a href="https://github.com/youssefHosni/Awesome--Data-AI-careers-Roadmaps">Data/AI Careers roadmap</a>
+* <a href="https://pub.towardsai.net/ultimate-mlops-learning-roadmap-with-free-learning-resources-in-2023-3ba7664cb1e9">MLOps Roadmap with free resources</a>
   
 # Job Search and Interview Prep
 * <a href="https://www.crackingthecodinginterview.com/">Cracking the Coding Interview</a> BOOK
