@@ -82,6 +82,9 @@ or just this one:
 * <a href="https://huyenchip.com/ml-interviews-book/">Machine Learning Interviews Book</a> FREE
 * <a href="https://www.interviewquery.com/">Interview Query: MLE/DS Job Prep</a> FREE with Paid Plans
 
+### DSA / Leetcode Practice Guides
+* <a href="https://neetcode.io/">Neetcode</a>
+
 ### Job Search and Interview Prep Repos
 * <a href="https://github.com/youssefHosni/Data-Science-Interview-Preperation-Resources">Data Science Prep</a>
 * <a href="https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers">Data Science Interviews Q&A</a>
