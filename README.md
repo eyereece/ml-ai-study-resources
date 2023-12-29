@@ -55,8 +55,9 @@ or just this one:
 * <a href="https://www.run.ai/guides/machine-learning-operations/mlflow#:~:text=MLflow%20is%20an%20open%20source,%2C%20R%2C%20and%20REST%20APIs.">MLFlow Basics</a> FREE Article
 * <a href="https://www.udemy.com/course/mlflow-course/learn/lecture/40362208#overview">MLFlow In Action</a> UDEMY: Subscription
 
-### Docker
+### Containerization (optional)
 * <a href="https://www.datacamp.com/tutorial/docker-for-data-science-introduction">Docker for Data Science: An Introduction</a> FREE Article
+* <a href="https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/learn/lecture/24615816?start=0#overview">Docker and Kubernetes: The Complete Guide</a>
 
 # Others (optional)
 * <a href="https://www.pluralsight.com/courses/aws-certified-solutions-architect---associate-saa-c03">AWS Solutions Architect</a>
