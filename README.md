@@ -1,8 +1,9 @@
 # ml-ai-study-resources
-<br>
 
 # Introduction
-This is where I post my ML/AI or any data related study and job search resources (in-progress)
+This is where I post my ML/AI or any data related study and job search resources. 
+This is what I've used to learn and practice ML/AI, it's not in any way a complete list and you may not need to learn every single one of them.
+Feel free to contribute if you would like to add anything that's not included here. 😊
 
 # Different Types of ML/AI roles and its applications
 There are many different type of roles in Machine Learning/ Artificial Intelligence/ Data Science. Sometimes they're somewhat connected to each other. This section will contain resources/links to gain clarity on what AI currrently does and the different type of roles and its applications in real life.
@@ -37,14 +38,46 @@ or just this one:
 * <a href="https://huyenchip.com/machine-learning-systems-design/toc.html"> Machine Learning Systems Design</a> FREE
 * <a href="https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969"> Designing Machine Learning Systems </a> BOOK
 
+# Deep Learning
+* <a href="https://www.deeplearning.ai/courses/deep-learning-specialization/">Deep Learning Specialization</a> Coursera/DeepLearning.ai: Subscription
+* <a href="https://www.deeplearning.ai/courses/natural-language-processing-specialization/">NLP Specialization</a> Coursera/DeepLearning.ai: Subscription
+* <a href="https://www.deeplearning.ai/courses/generative-adversarial-networks-gans-specialization/">GAN Specialization</a> Coursera/DeepLearning.ai: Subscription
+* <a href="https://fullstackdeeplearning.com/">Full Stack Deep Learning</a> FREE
+
 # MLOps
+* <a href="https://www.deeplearning.ai/courses/machine-learning-engineering-for-production-mlops/">MLOps for Production</a> Coursera/DeepLearning.ai: Subscription
 * <a href="https://neptune.ai/blog/how-to-learn-mlops">How to learn MLOps</a> FREE article with resources
+* <a href="https://neptune.ai/blog/saving-trained-model-in-python#:~:text=Typically%20there%20are%20two%20ways,%2C%20protobuf%2C%20or%20tflite%20file.">How to save a trained model</a> FREE article
 * <a href="https://www.udemy.com/course/practical-mlops-for-data-scientists-devops-engineers-aws/">MLOps and DevOps on on AWS</a> UDEMY: Subscription
 * <a href="https://www.udemy.com/course/deploy-machine-learning-model/learn/lecture/17928722#overview">Deploy Machine Learning Models</a> UDEMY: Subscription
 
-# Deep Learning
+### MLFlow
+* <a href="https://www.run.ai/guides/machine-learning-operations/mlflow#:~:text=MLflow%20is%20an%20open%20source,%2C%20R%2C%20and%20REST%20APIs.">MLFlow Basics</a> FREE Article
+* <a href="https://www.udemy.com/course/mlflow-course/learn/lecture/40362208#overview">MLFlow In Action</a> UDEMY: Subscription
+
+### Docker
+* <a href="https://www.datacamp.com/tutorial/docker-for-data-science-introduction">Docker for Data Science: An Introduction</a> FREE Article
+
+# Others (optional)
+* <a href="https://www.pluralsight.com/courses/aws-certified-solutions-architect---associate-saa-c03">AWS Solutions Architect</a>
+
+# Where to find projects to learn from
+* <a href="https://www.kaggle.com/">Kaggle</a>
+* <a href="https://paperswithcode.com/">Papers with Code</a> (more advanced)
+
+# ML/DS/AI Roadmaps
+* <a href="https://github.com/chris-chris/ml-engineer-roadmap">MLE Roadmap by chris-chris</a>
+* <a href="https://github.com/enkaranfiles/Machine-Learning-Engineer-Roadmap?tab=readme-ov-file">MLE Roadmap by enkaranfiles</a>
+* <a href="https://github.com/youssefHosni/Awesome--Data-AI-careers-Roadmaps">Data/AI Careers roadmap</a>
   
 # Job Search and Interview Prep
 * <a href="https://www.crackingthecodinginterview.com/">Cracking the Coding Interview</a> BOOK
 * <a href="https://huyenchip.com/ml-interviews-book/">Machine Learning Interviews Book</a> FREE
 * <a href="https://www.interviewquery.com/">Interview Query: MLE/DS Job Prep</a> FREE with Paid Plans
+
+### Job Search and Interview Prep Repos
+* <a href="https://github.com/youssefHosni/Data-Science-Interview-Preperation-Resources">Data Science Prep</a>
+* <a href="https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers">Data Science Interviews Q&A</a>
+
+# Contribute and/or Questions
+Feel free to submit a PR and/or send me questions, I'm best reached through my LinkedIn: www.linkedin.com/in/joan-kusuma
