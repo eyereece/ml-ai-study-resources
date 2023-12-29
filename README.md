@@ -81,4 +81,4 @@ or just this one:
 * <a href="https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers">Data Science Interviews Q&A</a>
 
 # Contribute and/or Questions
-Feel free to submit a PR and/or send me questions, I'm best reached through my LinkedIn: www.linkedin.com/in/joan-kusuma
+Feel free to submit a PR and/or send me questions, I'm best reached through my LinkedIn if you have any questions: www.linkedin.com/in/joan-kusuma
