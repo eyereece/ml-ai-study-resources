@@ -47,6 +47,7 @@ or just this one:
 # Large Language Models (LLMs) and ChatModels
 * <a href="https://www.coursera.org/learn/generative-ai-with-llms">Generative AI with LLMs</a> Coursera/DeepLearning.ai: Subscription
 * <a href="https://www.coursera.org/projects/langchain-chat-with-your-data-project"> Project: LangChain chat with your data</a> Coursera/DeepLearning.ai
+* <a href="https://python.langchain.com/docs/additional_resources/tutorials">LangChain Tutorials</a>
 
 ### Frameworks
 * <a href="https://python.langchain.com/docs/get_started/introduction">LangChain</a>: Documentation
