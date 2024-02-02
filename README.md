@@ -49,6 +49,7 @@ or just this one:
 * <a href="https://www.coursera.org/projects/langchain-chat-with-your-data-project"> Project: LangChain chat with your data</a> Coursera/DeepLearning.ai
 * <a href="https://www.udemy.com/course/lamaindex/learn/lecture/40733878#questions"> Theory + Project: Develop LLM powered app with Llama Index </a>
 * <a href="https://python.langchain.com/docs/additional_resources/tutorials">LangChain Tutorials</a>
+* <a href="https://www.pinecone.io/learn/series/langchain/">LangChain AI handbook by Pinecone</a>
 
 ### Frameworks
 * <a href="https://python.langchain.com/docs/get_started/introduction">LangChain</a>: Documentation
