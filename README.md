@@ -1,8 +1,7 @@
 # ml-ai-study-resources
 
 # Introduction
-This is where I post my ML/AI or any data related study and job search resources. 
-This is what I've used to learn and practice ML/AI, it's not in any way a complete list and you may not need to learn every single one of them.
+This is where I post my ML/AI or any data related study, projects, and job search resources starting from complete beginners to more advanced resources.
 Feel free to contribute if you would like to add anything that's not included here. 😊
 
 # Different Types of ML/AI roles and its applications
@@ -70,7 +69,7 @@ or just this one:
 * <a href="https://www.datacamp.com/tutorial/docker-for-data-science-introduction">Docker for Data Science: An Introduction</a> FREE Article
 * <a href="https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/learn/lecture/24615816?start=0#overview">Docker and Kubernetes: The Complete Guide</a> UDEMY: Subscription
 
-# Others (optional)
+# Cloud Services (optional)
 * <a href="https://www.pluralsight.com/courses/aws-certified-solutions-architect---associate-saa-c03">AWS Solutions Architect</a>
 
 ### Other topics you may be interested in
