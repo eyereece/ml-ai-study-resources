@@ -50,6 +50,10 @@ or just this one:
 * <a href="https://python.langchain.com/docs/additional_resources/tutorials">LangChain Tutorials</a>
 * <a href="https://www.pinecone.io/learn/series/langchain/">LangChain AI handbook by Pinecone</a>
 
+### LLM Agents
+* <a href="https://towardsdatascience.com/navigating-the-world-of-llm-agents-a-beginners-guide-3b8d499db7a9">LLM Agents for Beginners: Theory</a>
+* <a href="https://developer.nvidia.com/blog/introduction-to-llm-agents/">Introduction to LLM Agents by Nvidia</a>
+
 ### Frameworks
 * <a href="https://python.langchain.com/docs/get_started/introduction">LangChain</a>: Documentation
 * <a href="https://www.llamaindex.ai/">LlamaIndex</a>
