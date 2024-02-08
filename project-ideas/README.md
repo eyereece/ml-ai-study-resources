@@ -7,6 +7,11 @@ This is where I post my resources to get hands-on ML/AI practices, I'm currently
 * <a href="https://www.udemy.com/course/deep-learning-with-pytorch-for-medical-image-analysis/learn/lecture/29054390#content">Medical Image Analysis with PyTorch</a>
 * <a href="https://www.udemy.com/course/yolov8-the-ultimate-course-for-object-detection-tracking/learn/lecture/36177150#content">Object Tracking, Segmentation and web-app development with YOLOv8</a>
 
+## Open Source Computer Vision Packages
+* <a href="https://github.com/ultralytics">Ultralytics</a>
+* <a href="https://github.com/roboflow">RoboFlow</a>
+
 # Where to find public datasets
 * <a href="https://www.kaggle.com">Kaggle</a>
 * <a href="https://www.uwb.edu/academic-support-programs/qsc/faculty-staff-support/onlinedatasets">Online Data Sets and Resources by UW Bothell</a>
+
