@@ -1,6 +1,8 @@
 # Introduction
 This is where I post my resources to get hands-on ML/AI practices, I'm currently mainly focused on Computer Vision and LLMs. This will be updated frequently. (in progress)
 
+To get started in the computer vision projects for beginners will require a working knowledge of Python, you should be able to follow through the tutorial without prior knowledge of Machine Learning/Deep Learning but having a theoretical knowledge of both would be helpful in fine-tuning the models.
+
 # Computer Vision Projects for Beginners
 * <a href="https://www.udemy.com/course/machine-learning-practical/learn/lecture/11789808#overview">Train an Image Classification Model with Fashion MNIST Dataset</a>
 * <a href="https://www.udemy.com/course/yolo-custom-object-detection/learn/lecture/32392508#content">Train an Object Detection (YOLOv5) Model with Custom Dataset</a>
